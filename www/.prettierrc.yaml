@@ -1,0 +1,8 @@
+printWidth: 200
+vueIndentScriptAndStyle: true
+semi: true
+tabWidth: 4
+useTabs: true
+singleQuote: true
+singleAttributePerLine: false
+proseWrap: never
