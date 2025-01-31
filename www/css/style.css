@@ -74,7 +74,7 @@ a {
 }
 
 .im-still-searching-for-you p {
-    width: 350px;
+    width: 400px;
 }
 
 .social-links {
@@ -92,7 +92,7 @@ a {
 }
 
 .social-links a {
-    margin: 10px 0;
+    margin: 8px 0;
     color: var(--secondary-color);
     text-decoration: none;
     text-shadow: 0 0 5px rgba(216, 5, 5, 0.7);
