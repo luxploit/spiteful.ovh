@@ -1,4 +1,4 @@
-# spiteful.ovh
+# [spiteful.ovh](http://spiteful.labs.luxploit.net/)
 
 ripped and re-created out of spite :) previous versions of the site were public as found [here](https://github.com/zfi2/zfi2.github.io/commit/f1f1147a083bebd8b977deb68b80877b98ce5928). 
 
