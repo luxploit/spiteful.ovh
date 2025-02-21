@@ -6,6 +6,9 @@ this version was available from late 2023 to early 2024 as per this [Wayback Sna
 
 the frontend was ripped using [SaveWeb2ZIP](https://saveweb2zip.com/) and the backend was faithfully recreated by myself.
 
+### update (22/02/2025):
+the current version of the website was made public on Feb 10th 2025 under these repos: [lain.ovh](https://github.com/zfi2/lain.ovh) and [api.lain.ovh](https://github.com/zfi2/api.lain.ovh)
+
 changes over the original:
 * always show password box and enforce protected users server-side
 * styled password box to match the rest of the ui
